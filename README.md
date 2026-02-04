@@ -1,15 +1,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 # 🐬 Banco de Dados: Exercícios de MySQL
 
----
-
 ## 💡 Objetivos deste repositório
 - Organizar de forma **clara e estruturada** meus estudos em MySQL.  
 - Praticar **SELECT, WHERE, ORDER BY, LIMIT, funções de agregação e JOINs**.  
 - Criar uma **base de exercícios reutilizável** para projetos futuros.  
 - Demonstrar **dedicação e evolução constante**, mesmo antes de atuar profissionalmente.  
-
----
 
 ## 🗂 Organização do repositório
 1️⃣ Seleção completa | Consultas `SELECT *` para explorar todas as tabelas |
