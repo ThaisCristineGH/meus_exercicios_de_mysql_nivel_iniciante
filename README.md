@@ -1,5 +1,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Iniciante](https://img.shields.io/badge/Nível-Iniciante-yellow)
+
 # 🐬 Banco de Dados: Exercícios de MySQL
+
+⭐ **Dica:** Este repositório será atualizado regularmente com novos exercícios e aprendizados em SQL/MySQL. 
+⭐ **Dica:** Cada exercício está comentado para facilitar o entendimento e **servir como guia de estudo contínuo**.
 
 ## 💡 Objetivos deste repositório
 - Organizar de forma **clara e estruturada** meus estudos em MySQL.  
@@ -16,9 +21,6 @@
 6️⃣ Filtragem | (em breve) Uso de `WHERE` para selecionar dados específicos |
 7️⃣ Agregações | (em breve) Funções `COUNT`, `SUM`, `AVG` |
 8️⃣ Joins | (em breve) Combinando tabelas para consultas avançadas |
-> Cada exercício está comentado para facilitar o entendimento e **servir como guia de estudo contínuo**.
-> 
-📌 **Dica:** Este repositório será atualizado regularmente com novos exercícios e aprendizados em SQL/MySQL.
 
 ## 🛠️ Tecnologias
 MySQL
