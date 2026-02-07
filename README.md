@@ -16,6 +16,6 @@ Os conteúdos são atualizados regularmente e todos os exercícios são comentad
 5. Ordenação: Uso de (ORDER BY com ASC e DESC).
 6. Filtragem: Uso de (WHERE) para selecionar dados específicos. para selecionar dados específicos 
 
-## 💡 Tecnologias
+## 💡 Ferramentas/técologias:
 MySQL
 GitHub: Hospedagem do projeto
