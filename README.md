@@ -10,12 +10,12 @@ Os conteúdos são atualizados regularmente e todos os exercícios são comentad
 ⭐ **Dica:** Cada exercício está comentado para facilitar o entendimento e **servir como guia de estudo contínuo**.
 
 ## 💻 Organização do repositório
-1️. Seleção completa | Consultas `SELECT *` para explorar todas as tabelas 
-2️. Seleção de colunas | Selecionando apenas colunas específicas 
-3️. Alias | Usando `AS` para renomear colunas de forma clara 
-4️. Limites | Uso de `LIMIT` para visualizar primeiras linhas 
-5️. Ordenação | Uso de `ORDER BY` com `ASC` e `DESC` 
-6️. Filtragem | (em breve) Uso de `WHERE` para selecionar dados específicos 
+1. Seleção completa: Consultas (SELECT *) para explorar todas as tabelas.
+2. Seleção de colunas: Selecionando apenas colunas específicas.
+3. Alias: Usando (AS) para renomear colunas de forma clara.
+4. Limites: Uso de (LIMIT) para visualizar as primeiras linhas.
+5. Ordenação: Uso de (ORDER BY com ASC e DESC).
+6. Filtragem: Uso de (WHERE) para selecionar dados específicos. para selecionar dados específicos 
 
 ## 💡 Tecnologias
 MySQL
