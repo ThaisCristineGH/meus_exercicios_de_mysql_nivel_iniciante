@@ -17,5 +17,5 @@ Os conteúdos são atualizados regularmente e todos os exercícios são comentad
 6. Filtragem: Uso de (WHERE) para selecionar dados específicos. para selecionar dados específicos 
 
 ## 💡 Ferramentas/técologias:
-MySQL
-GitHub: Hospedagem do projeto
+* MySQL
+* GitHub: Hospedagem do projeto
